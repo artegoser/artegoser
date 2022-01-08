@@ -1,4 +1,7 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=artegoser&theme=radical)  
+|Github stats|Code activity|
+|-|-|
+|![Github stats](https://github-readme-stats.vercel.app/api?username=artegoser&theme=radical)| [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artegoser&theme=tokyonight&show_icons=true&layout=compact)](https://wakatime.com/artegoser)|
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artegoser&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **artegoser/artegoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
