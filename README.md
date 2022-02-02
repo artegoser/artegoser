@@ -1,5 +1,7 @@
 <h1 align="center">I'm artegoser</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=artegoser&label=Profile%20views&color=0e75b6&style=flat" alt="artegoser" /> </p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artegoser&theme=github_dark" alt="artegoser" align = "center"/></p>
+
 
 |Github stats|Code activity|
 |-|-|
