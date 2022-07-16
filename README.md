@@ -7,7 +7,7 @@
 |-|-|
 |![Github stats](https://github-readme-stats.vercel.app/api?username=artegoser&theme=radical)| [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artegoser&theme=tokyonight&show_icons=true&layout=compact)](https://wakatime.com/artegoser)|
 |Most used languages|Streaks|
-|![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=artegoser&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=artegoser&theme=highcontrast)
+|![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=artegoser&hide=css,ejs,batchfile,shell,html&theme=radical&show_icons=true&locale=en&layout=compact)|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=artegoser&theme=highcontrast)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artegoser" alt="artegoser" /></a> </p>
 
