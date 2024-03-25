@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-🌱 I’m currently learning Svelte, NestJs, Data Structures & Algorithms<br>👨‍💻 All of my projects are available at artegoser.ru (will be, soon)<br>📝 I write articles on blog.artegoser.ru
+🌱 I’m currently learning Svelte, Data Structures & Algorithms<br>👨‍💻 All of my projects are available at artegoser.ru (will be, soon)<br>📝 I write articles on blog.artegoser.ru
 
 # 💻 Tech Stack
 
