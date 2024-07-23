@@ -2,13 +2,12 @@
   <h1>A passionate fullstack-developer</h1>
   <p> <img src="https://komarev.com/ghpvc/?username=artegoser&label=Profile%20views&color=0e75b6&style=flat" alt="artegoser" /> </p> 
   <p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artegoser&theme=github_dark" alt="artegoser"/></p> 
-</div>
 
 # 💫 About Me
 
-🌱 I’m currently learning Data Structures & Algorithms  
-👨‍💻 All of my projects are available at artegoser.ru (will be, soon)  
-📝 I write articles on blog.artegoser.ru
+🌱 I’m currently learning ~Data Structures & Algorithms~ how to not give a f**k  
+👨‍💻 All of my projects ~are available at artegoser.ru~ are masterpiece....................  
+📝 ~I write articles on blog.artegoser.ru~ I write code..............................................  
 
 # 💻 Tech Stack
 
@@ -26,13 +25,14 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
@@ -41,3 +41,5 @@
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artegoser&theme=github_dark&hide_border=true)  
 ![](https://github-contributor-stats.vercel.app/api?username=artegoser&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
