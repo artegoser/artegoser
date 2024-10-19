@@ -5,9 +5,9 @@
 
 # 💫 About Me
 
-🌱 I’m currently learning something.
-👨‍💻 All of my projects cool. 
-📝 I write code.
+🌱 I’m currently learning something.  
+👨‍💻 All of my projects cool.  
+📝 I write code.  
 
 # 💻 Tech Stack
 
