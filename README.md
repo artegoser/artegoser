@@ -5,9 +5,9 @@
 
 # 💫 About Me
 
-🌱 I’m currently learning ~Data Structures & Algorithms~ how to not give a f**k  
-👨‍💻 All of my projects ~are available at artegoser.ru~ are masterpiece....................  
-📝 ~I write articles on blog.artegoser.ru~ I write code..............................................  
+🌱 I’m currently learning something.
+👨‍💻 All of my projects cool. 
+📝 I write code.
 
 # 💻 Tech Stack
 
