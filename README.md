@@ -1,8 +1,6 @@
 <div align="center"> 
   
-  # A passionate fullstack-developer
-
-  [My personal site](https://artegoser.ru)
+[My site](https://artegoser.ru)
 
 ![](https://komarev.com/ghpvc/?username=artegoser&label=Profile%20views&color=0e75b6&style=flat)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artegoser&theme=github_dark&hide_border=true)  
